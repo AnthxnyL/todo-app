@@ -21,18 +21,14 @@
 ## Lancement du projet
 
 ### Backend
-    ```
     cd back
     npm install
     npm run dev
-    ```
 
 ### Frontend
-    ```
     cd front
     npm install
     npm run dev
-    ```
 
 ### Accès à l'application
 Ouvrez votre navigateur et allez à : `http://localhost:3000`
