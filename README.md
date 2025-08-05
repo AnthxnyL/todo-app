@@ -6,7 +6,6 @@
 - [React](https://react.dev/) (Vite)
 - `fetch` natif pour les appels API (pas de librairie externe)
 - JSX fonctionnel, composants simples
-- (Optionnel : TailwindCSS pour le style)
 
 **Choix justifié** : React est imposé. J’ai utilisé `fetch` plutôt que Axios pour rester simple et éviter une dépendance supplémentaire.
 
@@ -22,14 +21,14 @@
 ## Lancement du projet
 
 ### Backend
-    ```bash
+    ```
     cd back
     npm install
     npm run dev
     ```
 
 ### Frontend
-    ```bash
+    ```
     cd front
     npm install
     npm run dev
